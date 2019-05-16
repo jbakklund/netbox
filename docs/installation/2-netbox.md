@@ -25,9 +25,9 @@ Download the [latest stable release](https://github.com/digitalocean/netbox/rele
 
 ```no-highlight
 # wget https://github.com/digitalocean/netbox/archive/vX.Y.Z.tar.gz
-# tar -xzf vX.Y.Z.tar.gz -C /opt
+# tar -xzf vX.Y.Z.tar.gz -C /opt/
 # cd /opt/
-# ln -s netbox-X.Y.Z/ netbox
+# ln -s netbox-X.Y.Z netbox
 # cd /opt/netbox/
 ```
 
